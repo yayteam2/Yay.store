@@ -1,4 +1,4 @@
-# Yay.store
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
